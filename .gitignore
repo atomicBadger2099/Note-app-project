@@ -1,0 +1,32 @@
+# Binaries
+ancient-scrolls
+scrolls-init
+
+# Go build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
