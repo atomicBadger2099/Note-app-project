@@ -13,3 +13,7 @@ INSTRUCTIONS FOR INSTALLATION:
 
 I hope you find this application useful. It is freely sharable under the CC-BY-NC creative common license.
     https://creativecommons.org/share-your-work/cclicenses
+
+an updated and improved version of this project was created by SecScholar and may be found at:
+
+https://github.com/SecScholar/Note-app-project
